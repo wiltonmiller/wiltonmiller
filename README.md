@@ -13,7 +13,6 @@ Outside academia, I’m a fan of **Formula 1** and **video games** (Fun fact: I 
 ## 🚀 What I'm Working On
 - 🤖 Exploring **Machine Learning** and its theoretical foundations  
 - 💡 Studying rigorous mathematical theory in **analysis**, **topology**, and related foundations  
-- 🧩 Experimenting with **Swift** to build meaningful iOS applications  
 - 🔍 Investigating how **AI** can improve access to education and information  
 
 ---
@@ -30,8 +29,6 @@ Outside academia, I’m a fan of **Formula 1** and **video games** (Fun fact: I 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=amd&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
